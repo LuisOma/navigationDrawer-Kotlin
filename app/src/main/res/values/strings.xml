@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+    <!-- NavigationDrawer -->
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <!-- NavigationDrawer Items -->
+    <string name="camera">Imágenes</string>
+    <string name="gallery">Galería</string>
+    <string name="slideshow">Presentación</string>
+    <string name="tools">Herramientas</string>
+    <string name="communicate">Comunicaciones</string>
+    <string name="share">Compartir</string>
+    <string name="send">Enviar</string>
+
+</resources>
